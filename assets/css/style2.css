@@ -6,15 +6,16 @@
     font-family: 'Sigmar', cursive;
 }
 body{
-    background-color: #f2f2f2;
+    background-image: url(/assets/IMG/bolhas4.jpg);
 }
 .content-center{
     width: 100%;
-    max-width: 300px;
+    max-width: 500px;
+    height: 500px;
     margin: auto;
     padding: 20px;
     background-color: #FFF;
-    border-radius: 15px;
+    border-radius: 50%;
     box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.3);
 }
 .content-center img{
@@ -79,4 +80,5 @@ footer{
 }
 #text-center{
     text-align: center;
+    margin-top: 82px;
 }
